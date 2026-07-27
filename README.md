@@ -1,24 +1,20 @@
 # python-for-computational-biology
-Self-learning Python for computational biology &amp; bioinformatics | Basics of DNA analysis, GC content, ORF prediction | Building foundation for MSc in Computational Biology
-
-# python-for-computational-biology
-Self-learning Python for biology & bioinformatics | Basics of DNA analysis
+Self-learning Python for biology & bioinformatics | Basics of DNA analysis, GC content, ORF prediction | Building foundation for MSc in Computational Biology at UBC
 
 ## 🧬 Codes Executed Successfully (Programiz)
 
-### 1. GC Content Calculation
-Calculates LENGTH and GC% of DNA sequence.
-**Output:** LENGTH IS 8, GC% is 50.0
+### 1. GC Content
+Input: ATGCATGC -> LENGTH IS 8, GC% is 50.0
 
-### 2. Filter Coding Regions (GeneMark Score > 0.50)
-Filters genes with coding potential > 0.50
-**Output:** 1 to 300 is coding with score 0.81 etc.
+### 2. Filter Coding Regions (Score > 0.50)
+Filters genes with GeneMark score > 0.50
+Output: 1 to 300 is coding with score 0.81
 
 ### 3. Find Start Codon ATG
-Finds position of ATG in sequence.
+Finds ATG position in DNA sequence.
 
-### 4. ORF Length Calculation
-Calculates ORF length using start and end.
-**Output:** ORF lenth is 528
+### 4. ORF Length
+Calculates ORF length: start 260 to end 787 = 528
 
-> All codes executed on Programiz Python Online Compiler
+> Tools: Python, Programiz Online Compiler
+> Status: All codes - Code Execution Successful ✅
