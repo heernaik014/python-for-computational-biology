@@ -1,3 +1,5 @@
+```python
+
 # 01 - GC Content Calculation
 # Self-learned Python for Computational Biology
 
@@ -12,3 +14,4 @@ print(f"Length is {length}")
 print(f"GC% is {gc_percent}")
 
 # Sample Output: ATGCCCGG -> LENGTH IS 8, GC% 75.0
+:
