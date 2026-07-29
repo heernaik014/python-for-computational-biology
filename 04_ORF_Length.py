@@ -3,3 +3,6 @@ start = 260
 end = 787
 length = end - start + 1
 print("ORF lenth is", length)
+
+#output:
+#ORF lenth is 528
