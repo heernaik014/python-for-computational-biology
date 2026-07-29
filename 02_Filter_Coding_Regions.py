@@ -13,5 +13,5 @@ if d > 0.50:
     print("901 to 1200 is coding with score", d)
 
 #output:
-301 to 600 is coding with score 0.81
-601 to 900 is coding with score 0.51
+#301 to 600 is coding with score 0.81
+#601 to 900 is coding with score 0.51
